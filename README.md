@@ -6,7 +6,7 @@ This project is a low-power GPS and GSM-based tracker built using an ESP32-S3 mi
 ---
 
 ---
-##Featurs: 
+## Featurs: 
     MCU: ESP32-S3 with Wi-Fi and BLE support
 
     GSM Module: Quectel EC200U for cellular communication
@@ -14,7 +14,8 @@ This project is a low-power GPS and GSM-based tracker built using an ESP32-S3 mi
     GNSS: GNSS antenna support for GPS tracking
 
     USB Type-C: For programming and debugging
-
+---
+---
 ### Power Supply:
 
     24V to 5V 4A Buck Converter (LMR33640)
@@ -22,7 +23,8 @@ This project is a low-power GPS and GSM-based tracker built using an ESP32-S3 mi
     5V to 3.8V regulator (MIC29302A) for GSM
 
     5V to 3.3V regulator (AMS1117) for logic level components
-
+---
+---
 ### Antenna Interfaces: U.FL connectors for:
 
 GNSS
@@ -40,24 +42,24 @@ Main GSM
 ---
 ## 2D View: all 4 layers
 <p align="center">
-  <img src="Snapshoots/2d_bottom.png" width="600" alt="top layer" />
+  <img src="Snapshots/2d_bottom.png" width="600" alt="top layer" />
 
-  <img src="Snapshoots/2d_gnd.png" width="600" alt="Bottom-Layer" />
+  <img src="Snapshots/2d_gnd.png" width="600" alt="Ground-Layer" />
 
-  <img src="Snapshoots/2d_vcc.png" width="600" alt="Bottom-Layer" />
+  <img src="Snapshots/2d_vcc.png" width="600" alt="Power-Layer" />
 
-  <img src="Snapshoots/2d_bottom.png" width="600" alt="Bottom-Layer" />
+  <img src="Snapshots/2d_bottom.png" width="600" alt="Bottom-Layer" />
 
 </p>
 
 ---
 
 ---
-##3D View: Top and  Bottom
+## 3D View: Top and  Bottom
 <p align="center">
-  <img src="Snapshoots/3d_top.png" width="600" alt="top layer" />
+  <img src="Snapshots/3d_top.png" width="600" alt="top layer" />
 
-  <img src="Snapshoots/3d_bottom.png" width="600" alt="Bottom-Layer" />
+  <img src="Snapshots/3d_bottom.png" width="600" alt="Bottom-Layer" />
 
 </p>
 
